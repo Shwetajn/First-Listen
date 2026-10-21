@@ -1,0 +1,9 @@
+# First Listen ships as one self-contained page: index.html
+# (kept locally, not part of the site)
+First_Listen.html
+main.js
+styles.css
+assets/
+fonts/
+references/
+.vercel/
